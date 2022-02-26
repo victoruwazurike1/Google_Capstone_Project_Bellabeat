@@ -1,1 +1,1 @@
-# Google_Capstone_Project_Bellabeat
+# Google Capstone_Project(Bellabeat case study)
